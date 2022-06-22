@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.debug .box {
+    background-color: blue;
+    color: #fff;
+    height: 2rem;
+    text-align: center;
+    padding: 5px 5px;
+    margin: 1px;
+}
