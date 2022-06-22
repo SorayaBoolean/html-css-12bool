@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.debug .box {
+    height: 20px;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+/********colors-palette*******/
+
+.black{
+    background-color: black;
+}
+
+.grey{
+    background-color: grey;
+}
+/*****************************/
+
+.mt-10{
+    margin-top: 10px;
+}
